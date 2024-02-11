@@ -1,8 +1,8 @@
 
 
 import { createContext, useEffect, useState } from "react";
-import Message from "@/component/Snackbar/Message";
-import Axios from "@/api/axios";
+import Message from "../component/Snackbar/Message";
+import Axios from "../api/axios";
 
 
 

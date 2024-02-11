@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import '@/css/style.css'
+import '../../css/style.css'
 import {ShopContext} from '../../ShopContext/Shopcontext'
 import { SnackbarProvider } from "notistack";
 import { Link } from 'react-router-dom';

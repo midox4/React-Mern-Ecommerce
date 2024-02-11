@@ -2,7 +2,7 @@ import React, { useContext, useEffect, useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import CircularProgress from "@mui/material/CircularProgress";
 import Axios from '../../api/axios'
-import '@/css/style.css'
+import '../../css/style.css'
 import { ShopContext } from '../../ShopContext/Shopcontext'
 import {loadStripe} from '@stripe/stripe-js';
 import Message from '../../component/Snackbar/Message';

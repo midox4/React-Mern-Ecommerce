@@ -3,7 +3,7 @@ import { Button, Typography } from '@mui/material';
 import { Box } from '@mui/system';
 import { useEffect, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
-import Axios from '@/api/axios';
+import Axios from "../../api/axios";
 
 const VerifyEmail = () => {
   

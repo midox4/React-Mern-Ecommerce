@@ -8,7 +8,7 @@ const Footer = () => {
     <div className="col-lg-4 col-md-12 mb-5 pr-3 pr-xl-5">
       <h5 className="text-secondary text-uppercase mb-4">Get In Touch</h5>
       <p className="mb-4">
-      Hi! I am Ala Eddine, Full stack developer, passionate about development and technical culture, I have a creative mind that allows me to propose new innovative solutions and capable of working in a team, However I am open to any proposal that would allow me to unleash my full potential and gain a new experience. thank you for your attention
+        Hi Welcome to our New  shop web site 
         </p>
       <p className="mb-2"><i className="fa fa-map-marker-alt text-primary mr-3" />05 rue 20 Mars , kairouan 3100 , Tunisia</p>
       <p className="mb-2"><i className="fa fa-envelope text-primary mr-3" />ahmedohafsi@gmail.com</p>
@@ -51,9 +51,9 @@ const Footer = () => {
           </form> */}
           <h6 className="text-secondary text-uppercase mt-4 mb-3">Follow Us</h6>
           <div className="d-flex">
-            <a  href='https://www.facebook.com/ala.eddine.1297' className="btn btn-primary btn-square mr-2"><i className="fab fa-facebook-f" /></a>
-            <a href='https://www.linkedin.com/in/ala-eddine-alloui-0851a0237' className="btn btn-primary btn-square mr-2"><i className="fab fa-linkedin-in" /></a>
-            <a href='https://github.com/AlaEdiine' className="btn btn-primary btn-square"><i className="fab fa-github" /></a>
+            <a  href='https://www.facebook.com/geniouspo' className="btn btn-primary btn-square mr-2"><i className="fab fa-facebook-f" /></a>
+            <a href='https://www.linkedin.com/in/hafsiahmed-dev/' className="btn btn-primary btn-square mr-2"><i className="fab fa-linkedin-in" /></a>
+            <a href='https://github.com/midox4' className="btn btn-primary btn-square"><i className="fab fa-github" /></a>
           </div>
         </div>
       </div>

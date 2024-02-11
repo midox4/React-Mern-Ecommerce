@@ -355,7 +355,9 @@ const Menus = () => {
                       className="badge text-secondary border border-secondary rounded-circle"
                       style={{ paddingBottom: 2 }}
                     >
-                    {valueContext?.dataLocalStorage.length}
+                    {/* /*{valueContext?.dataLocalStorage.length} */}
+                    {valueContext?.dataLocalStorage ? valueContext.dataLocalStorage.length : 0}
+
                     </span>
                   </Link>
                   <Link to="/cart" href className="btn px-0 ml-3">
@@ -364,7 +366,9 @@ const Menus = () => {
                       className="badge text-secondary border border-secondary rounded-circle"
                       style={{ paddingBottom: 2 }}
                     >
-                      {valueContext?.cartitems.length}
+                      {/* {valueContext?.cartitems.length} */}
+                      {valueContext?.cartitems ? valueContext.cartitems.length : 0}
+
                     </span>
                   </Link>
                 </div>
