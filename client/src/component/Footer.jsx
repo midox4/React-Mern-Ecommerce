@@ -10,9 +10,9 @@ const Footer = () => {
       <p className="mb-4">
       Hi! I am Ala Eddine, Full stack developer, passionate about development and technical culture, I have a creative mind that allows me to propose new innovative solutions and capable of working in a team, However I am open to any proposal that would allow me to unleash my full potential and gain a new experience. thank you for your attention
         </p>
-      <p className="mb-2"><i className="fa fa-map-marker-alt text-primary mr-3" />29 Cite balawi 2 , kairouan 3182 , Tunisia</p>
-      <p className="mb-2"><i className="fa fa-envelope text-primary mr-3" />alaeddine.alouii@gmail.com</p>
-      <p className="mb-0"><i className="fa fa-phone-alt text-primary mr-3" />+216 99149926</p>
+      <p className="mb-2"><i className="fa fa-map-marker-alt text-primary mr-3" />05 rue 20 Mars , kairouan 3100 , Tunisia</p>
+      <p className="mb-2"><i className="fa fa-envelope text-primary mr-3" />ahmedohafsi@gmail.com</p>
+      <p className="mb-0"><i className="fa fa-phone-alt text-primary mr-3" />+216 99148651</p>
     </div>
     <div className="col-lg-8 col-md-12">
       <div className="row">
@@ -64,7 +64,7 @@ const Footer = () => {
       <p className="mb-md-0 text-center text-md-left text-secondary">
         © 2023 - All Rights Reserved. Designed
         by 
-        <Link className="text-primary"> Alloui Ala Eddine</Link>
+        <Link className="text-primary"> AHMED@SOUHIR </Link>
       </p>
     </div>
     <div className="col-md-6 px-xl-0 text-center text-md-right">

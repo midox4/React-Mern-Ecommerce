@@ -5,8 +5,8 @@ const SendEmail = (data, req, res, next) => {
 var transporter = nodemailer.createTransport({
   service: 'gmail',
   auth: {
-    user: 'alaeddine.alouii@gmail.com',
-    pass: 'ALA9321x'
+    user: 'ahmedohafsi@gmail.com',
+    pass: 'hello2024'
   }
 });
 
@@ -14,7 +14,7 @@ var transporter = nodemailer.createTransport({
 
 var mailOptions = {
   from: 'ste.yoyojul@outlook.com',
-  to: 'alaeddine20182017@gmail.com' ,
+  to: 'ahmedohafsi@gmail.com' ,
   subject: data.subject,
   text: data.msg ,
 }
