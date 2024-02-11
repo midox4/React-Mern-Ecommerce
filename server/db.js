@@ -11,10 +11,10 @@ mongoose.connect(url ,
     }).then(con =>{
   
    if (con){
-    console.log('Succed MongoDB Atals Connected in 0.005 ms')
+    console.log('Succed MongoDB Atlas Connected ')
    }
    else {
-    console.log("Error connected MongoDB")
+    console.log("Error to connect to MongoDB")
    }
     
     })
